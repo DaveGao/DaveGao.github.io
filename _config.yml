@@ -1,17 +1,17 @@
 future: true
 permalink: /:title/
-url: http://pmlpml.github.io
-name: Pan Sir
-author: Sir Pan
-qq: yourqq
-email: yourmail@mail2.sysu.edu.cn
+url: http://DaveGao.github.io
+name: Dave Gao
+author: Dave Gao
+qq: 1078983625
+email: 1078983625@qq.com
 
-duoshuo: yourname
+duoshuo: Dave Gao
 beian: 
 cnzz: 
 weibo: 
-github: yourID
-about: "这里是 Your 的个人博客，创建于 20xx 年。"
+github: DaveGao
+about: "创建于2018年3月10日"
 
 safe: true
 paginate: 20
