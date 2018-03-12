@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: homework1
 date: 2018-3-12
