@@ -1,7 +1,7 @@
 ---
 layout: post
 title: homework1
-date: 2018-3-12
+date: 2018-3-12 12:00:10+00:00
 categories: 作业
 tags: 博客
 ---
